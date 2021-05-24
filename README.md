@@ -15,6 +15,6 @@
 
 <img align="left" alt="Stats github NeyZth" src="https://github-readme-stats.vercel.app/api?username=neyzth&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
-twitter: https://twitter.com/ZthNey
-bot discord: https://rootbot.fr
+[twitter](https://twitter.com/ZthNey)
+[bot discord](https://rootbot.fr)
 
