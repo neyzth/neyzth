@@ -1,8 +1,8 @@
 ### Je suis NeyZth, un jeune développeur en quête de savoir 👋
 
-[twitter](https://twitter.com/ZthNey)
+[Twitter](https://twitter.com/ZthNey)
 
-[bot discord](https://rootbot.fr)
+[Mon bot discord](https://rootbot.fr)
 
 ### Langages et outils maîtrisés:
 
