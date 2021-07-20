@@ -1,7 +1,6 @@
-### Je suis NeyZth, un jeune développeur en quête de savoir 👋
+### NeyZth / Siz'n
 
 [Twitter](https://twitter.com/ZthNey)
-
 [Mon bot discord](https://rootbot.fr)
 
 ### Langages et outils maîtrisés:
@@ -16,6 +15,9 @@
 
 <br />
 <br />
+Interéssé par:
+- Cybersecurité
+- Developpement
 
 <img align="left" alt="Stats github NeyZth" src="https://github-readme-stats.vercel.app/api?username=neyzth&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
