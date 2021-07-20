@@ -1,6 +1,7 @@
 ### NeyZth / Siz'n
 
 [Twitter](https://twitter.com/ZthNey)
+
 [Mon bot discord](https://rootbot.fr)
 
 ### Langages et outils maîtrisés:
