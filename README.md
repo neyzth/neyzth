@@ -2,8 +2,6 @@
 
 [Twitter](https://twitter.com/ZthNey)
 
-[Mon bot discord](https://rootbot.fr)
-
 ### Langages et outils maîtrisés:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -20,6 +18,7 @@ Interéssé par:
 
 - Cybersecurité
 - Developpement
+- Sys admin
 
 <img align="left" alt="Stats github NeyZth" src="https://github-readme-stats.vercel.app/api?username=neyzth&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
